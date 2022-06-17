@@ -8,7 +8,11 @@ iwan
 
 
 Komputer A- 1
-Kotek === 2
+Accept Curent Change   --> zostaje moja
+Accept Incoming Change --> zostaje osoby która skomitowała
+Accept Both Change --> zostaje osoby która skomita
+
+Adamexx ----1
 1 - tak 
 2 - nie b
 3 - nie b
