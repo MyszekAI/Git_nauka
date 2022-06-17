@@ -8,7 +8,7 @@ iwan
 
 
 Komputer A- 1
-
+Kotek === 2
 1 - tak 
 2 - nie b
 3 - nie b
